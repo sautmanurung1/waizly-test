@@ -15,7 +15,7 @@ Tools :
 1. Clone Repository
 
 ```
-git clone
+git clone https://github.com/sautmanurung1/waizly-test.git
 ```
 
 2. Create Database in MySQL / PostgreSQL
