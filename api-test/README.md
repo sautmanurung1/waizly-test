@@ -44,3 +44,5 @@ go run main.go
 You can see in this swagger link
 
 https://app.swaggerhub.com/apis-docs/sautmanurung1/student_api/2.0
+
+swagger hub only see the documentation about route in this project
